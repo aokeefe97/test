@@ -70,7 +70,7 @@
     <td> AP United States History (Savage) </td>
   </tr>
   <tr class="schedule-late">
-  	<td> 3:00 - 4:00 </td>
+  	<td> 3:00 -- 4:00 </td>
     <td rowspan="3"> Robotics Meeting </td>
     <td rowspan="3"> N/A </td>
     <td rowspan="3"> Robotics Meeting </td>
@@ -79,10 +79,10 @@
   </tr>
   
   <tr class="schedule-late">
-  	<td> 4:00 - 5:00 </td>
+  	<td> 4:00 -- 5:00 </td>
   </tr>
   <tr class="schedule-late">
-  	<td > 5:00 - 6:00 </td>
+  	<td > 5:00 -- 6:00 </td>
   </tr>
   
 </table>
