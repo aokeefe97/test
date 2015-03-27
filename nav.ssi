@@ -1,7 +1,9 @@
 <nav>
-	<a href="index.html">Index </a> <br />
-	<a href="2_html_attributes.html">Aidan's Bio</a> <br />
-	<a href="3_html_resume.html">Resume </a> <br />
-	<a href="4_html_schedule2.html">Schedule </a> <br />
-	<a href = "5_ssi_navigation.html">Navigation Test </a>
+<table width=100%>
+		<tr><td><a href="index.html">Index </a></td></tr>
+		<tr><td><a href="2_html_attributes.html">Aidan's Bio</a></td></tr>
+		<tr><td><a href="3_html_resume.html">Resume </a></td></tr>
+		<tr><td><a href="4_html_schedule2.html">Schedule </a></td></tr>
+		<tr><td><a href = "5_ssi_navigation.html">Navigation Test </a></td></tr>
+</table>
 </nav>

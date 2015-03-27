@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family:"Times", serif;
+	font-size: 10pt;
+	margin: 20pt 20pt 20pt 20pt;
+	color:black;
+	background-color:white;
+}
+
+table {
+	display:block;
+	margin:auto;
+}

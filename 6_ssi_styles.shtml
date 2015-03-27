@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="./css/schedule.css">
+
+<title>Resume</title>
+</head>
+
+<body>
+<div class="schedule-header">
+<div class="schedule-regular">
+<table border=1 width="100%" height="100%" >
+	<tr>
+    	<td width="200px" height="100px"><img src="images/man_smelling_leaf.jpg" width="200" height="100"></td>
+      <td><h1>Aidan's Schedule</h1></td>
+    </tr>
+    <tr>
+    	<td><!--#include file="nav.ssi"--></td>
+        <td><table width="800" height="1000" border="1" class="schedule-late">
+  <tr>
+  	<th> Legend </th>
+  	<th> Monday (A Day) </th>
+    <th> Tuesday (B Day) </th>
+    <th> Wednesday (A Day) </th>
+    <th> Thursday (B Day) </th>
+    <th> Friday (A Day) </th>
+  </tr>
+  <tr>
+  	<td> 1/2 </td>
+    <td> Gym (Brooks) </td>
+    <td> AP Calculus (Kaciupski) </td>
+    <td> Gym (Brooks) </td>
+    <td> AP Calculus (Kaciupski) </td>
+    <td> Gym (Brooks) </td>
+  </tr>
+  <tr>
+  	<td> 3/4 </td>
+    <td> Character Animation (Gerstein) </td>
+    <td> Web Design (Leoniy) </td>
+    <td> Character Animation (Gerstein) </td>
+    <td> Web Design (Leoniy) </td>
+    <td> Character Animation (Gerstein) </td>
+  </tr>
+  <tr>
+  	<td> 5 </td>
+    <td colspan="5"> Lunch (Cafeteria) </td>
+  </tr>
+  <tr>
+  	<td> 6 </td>
+    <td colspan="2"> Co-Curricular (Free) </td>
+    <td> Robotics Officer Meeting </td>
+    <td colspan="2"> Co-Curricular (Free) </td>
+  </tr>
+  <tr>
+  	<td> 7/8 </td>
+    <td> AP Physics (Fang) </td>
+    <td> Architecture and Design (Tafuri) </td>
+    <td> AP Physics (Fang) </td>
+    <td> Architecture and Design (Tafuri) </td>
+    <td> AP Physics (Fang) </td>
+  </tr>
+  <tr>
+  	<td> 9/10 </td>
+    <td> AP United States History (Savage) </td>
+    <td> English IV (Schuh) </td>
+    <td> AP United States History (Savage) </td>
+    <td> English IV (Schuh) </td>
+    <td> AP United States History (Savage) </td>
+  </tr>
+  <tr class="schedule-late">
+  	<td> 3:00 -- 4:00 </td>
+    <td rowspan="3"> Robotics Meeting </td>
+    <td rowspan="3"> N/A </td>
+    <td rowspan="3"> Robotics Meeting </td>
+    <td rowspan="3"> Robotics Meeting </td>
+    <td rowspan="3"> N/A </td>
+  </tr>
+  
+  <tr class="schedule-late">
+  	<td> 4:00 -- 5:00 </td>
+  </tr>
+  <tr class="schedule-late">
+  	<td > 5:00 -- 6:00 </td>
+  </tr>
+  
+</table>
+</td>
+    </tr>
+</table>
+</div>
+</div>
+</body>
+
+</html>
